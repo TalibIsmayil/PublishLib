@@ -1,0 +1,3 @@
+rootProject.name = "PublishLib"
+include ':app'
+include ':mylibrary'
